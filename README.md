@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=2000&pause=500&color=00FFAA&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Roman%2C+A+Cyber+Security+Enthusiast+%2C+HEHEHEHEHEHE" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=2000&pause=500&color=00FFAA&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hello%2C+I'm+Roman%2C+A+Cyber+Security+Enthusiast;HEHEHEHEHEHE" />
 
 </div>
+
 
 
 Computer Science undergraduate focused on cybersecurity, network defense, and secure system design. Based in Mumbai, India.
